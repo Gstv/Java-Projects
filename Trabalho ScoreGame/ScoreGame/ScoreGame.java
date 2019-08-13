@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 public class ScoreGame {
         
@@ -24,7 +25,7 @@ public class ScoreGame {
                         
                         System.out.println("7. Calcular a soma total de pontuacao na lista de scores");
                         
-                        System.out.println("8. Verificar se dado uma pontuacao existem duas pontuacoes na lista de scores que \n    somadas sao iguais a  pontuacao informada. ");
+                        System.out.println("8. Verificar se dado uma pontuacao existem duas pontuacoes na lista de scores que \n    somadas sao iguais aÂ  pontuacao informada. ");
                         
                         System.out.println("0. Encerra programa");
                         
